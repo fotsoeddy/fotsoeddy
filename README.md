@@ -10,10 +10,10 @@
 
 [![](https://visitcount.itsvg.in/api?id=fotsoeddy&label=Profile%20Views&icon=6&pretty=false)](https://visitcount.itsvg.in)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=fotsoeddy&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=fotsoeddy&theme=dark&hide_border=false&include_all_commits=fasle&count_private=false)<br/>
 ![GitHub Streak](https://streak-stats.demolab.com/?user=fotsoeddy&theme=dark&hide_border=false) <br>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=fotsoeddy&theme=dark&hide_border=false)<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fotsoeddy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
