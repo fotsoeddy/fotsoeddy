@@ -29,7 +29,7 @@ Hi there! I'm **Fotso Eddy Steve** 👋, a passionate **Full-Stack Developer** w
 
 ## 📬 Contact Me
 
-📧 Email: fotsoeddy@example.com  
+📧 Email: fotsoeddysteve@gmail.com  
 💼 LinkedIn: [linkedin.com/in/fotsoeddy](https://linkedin.com/in/fotsoeddy)  
 🐦 Twitter: [twitter.com/fotsoeddy](https://twitter.com/fotsoeddy)  
 
