@@ -1,6 +1,6 @@
 # 📌 About Me
 
-Hi there! I'm **Fotso Eddy Steve** 👋, A passionate **Full-Stack/ Mobile Developer** with expertise in **Frontend, Backend, Hosting, and DevOps**. I love building efficient and scalable applications while continuously learning and improving my skills.
+Hi there! I'm **Fotso Eddy Steve** 👋, A passionate **Full-Stack / Mobile Developer** with expertise in **Frontend, Backend, Hosting, and DevOps**. I love building efficient and scalable applications while continuously learning and improving my skills.
 
 ## 🚀 Skills
 
@@ -33,4 +33,4 @@ Hi there! I'm **Fotso Eddy Steve** 👋, A passionate **Full-Stack/ Mobile Devel
 💼 LinkedIn: [linkedin.com/in/fotsoeddy](https://linkedin.com/in/fotsoeddy)  
 🐦 Twitter: [twitter.com/fotsoeddy](https://twitter.com/fotsoeddy)  
 
-Let's connect and build amazing things together! 🚀
+Let's connect and build amazing things together!🚀
