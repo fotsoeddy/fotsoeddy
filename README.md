@@ -1,4 +1,4 @@
-# 📌 About Me thisis 
+# 📌 About Me 
 
 
 Hi there! 
