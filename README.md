@@ -18,8 +18,6 @@ I'm **Fotso Eddy Steve** 👋, A passionate **Full-Stack / Mobile Developer** wi
 
 ## 📊 GitHub Stats
 
-
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fotsoeddy&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br />
