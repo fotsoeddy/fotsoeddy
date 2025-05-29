@@ -1,8 +1,6 @@
 
 # 📌 About Me 
 
-
-
 Hi there! 
 I'm **Fotso Eddy Steve** 👋, A passionate **Full-Stack / Mobile Developer** with expertise in **Frontend, Backend, Hosting, and DevOps**. I love building efficient and scalable applications while continuously learning and improving my skill
 
