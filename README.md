@@ -1,6 +1,4 @@
-# Fotso Eddy Steve 👋 | Full-Stack & Mobile Developer
-
-
+# Fotso Eddy Steve 👋 | Full-Stack & Mobile Develope
 
 A highly motivated and versatile Full-Stack and Mobile Developer with a passion for building efficient and scalable applications. My expertise encompasses the complete software development lifecycle, from crafting elegant Frontend interfaces to developing robust Backend systems, managing Hosting environments, and implementing DevOps best practices. I am dedicated to continuous learning and committed to delivering high-quality, innovative solutions. Let's connect and create something extraordinary together! 🚀
 
