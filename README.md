@@ -1,18 +1,15 @@
-# Fotso Eddy Steve 👋 | Full-Stack & Mobile Develope
+# Fotso Eddy Steve 👋 | DevOps & Software Engineer
 
-
-A highly motivated and versatile Full-Stack and Mobile Developer with a passion for building efficient and scalable applications. My expertise encompasses the complete software development lifecycle, from crafting elegant Frontend interfaces to developing robust Backend systems, managing Hosting environments, and implementing DevOps best practices. I am dedicated to continuous learning and committed to delivering high-quality, innovative solutions. Let's connect and create something extraordinary together! 🚀
+A passionate and results-driven DevOps and Software Engineer with expertise in full-stack and mobile development. I build scalable, reliable, and maintainable software solutions while streamlining deployment pipelines and automating workflows. Always learning, always improving, always innovating. 🚀
 
 ## 🛠️ Technical Skills
 
-A comprehensive skillset covering the entire application development lifecycle.
-
-| Category         | Technologies/Tools                                                                 |
-| ---------------- | ---------------------------------------------------------------------------------- |
-| **Frontend**     | HTML, CSS, SCSS, JavaScript, TypeScript, React, Vue.js                             |
-| **Backend**      | Django, Django REST Framework, Python, Node.js, Express.js                          |
-| **Hosting**      | Vercel, Netlify, Hostinger, Render, Railway, AWS, Firebase                         |
-| **DevOps & Tools** | Git, GitHub, Docker, Postman, Thunder Client, Linux, Bash Scripting                  |
+| Category           | Technologies / Tools                                                            |
+| ------------------ | ------------------------------------------------------------------------------- |
+| **Frontend**       | HTML, CSS, SCSS, JavaScript, TypeScript, React, Vue.js                          |
+| **Backend**        | Python, Django, Django REST Framework, Node.js, Express.js                     |
+| **DevOps & Cloud** | Docker, Kubernetes, Git, GitHub, CI/CD Pipelines, AWS, Render, Railway, Firebase|
+| **Tools & Utilities** | Linux, Bash Scripting, Postman, Thunder Client, Vercel, Netlify, Hostinger     |
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fotsoeddy&show_icons=true&theme=radical)](https://github.com/fotsoeddy)
 [![GitHub Streak](https://streak-stats.demolab.com?user=fotsoeddy&theme=radical&hide_border=true)](https://github.com/fotsoeddy)
