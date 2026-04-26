@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-Designing scalable infrastructure, automating pipelines, and building intelligent cloud systems.
+Designing scalable infrastructure, automating CI/CD pipelines, and building intelligent cloud systems.
 </p>
 
 ---
@@ -49,8 +49,8 @@ PostgreSQL • Redis • Celery
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=fotsoeddy&show_icons=true&theme=github_dark&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=fotsoeddy&theme=github-dark&hide_border=true" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=fotsoeddy&show_icons=true&theme=github_dark&hide_border=true" />
+  <img width="45%" src="https://streak-stats.demolab.com?user=fotsoeddy&theme=github-dark&hide_border=true" />
 </p>
 
 <p align="center">
@@ -59,9 +59,17 @@ PostgreSQL • Redis • Celery
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/fotsoeddy/fotsoeddy/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
 ## 🌱 Currently Working On
 
-- DevOps pipeline automation  
+- Advanced DevOps pipeline automation  
 - AI-driven infrastructure workflows  
 - Scalable cloud systems on AWS  
 - Intelligent deployment automation  
