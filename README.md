@@ -30,6 +30,22 @@ Designing scalable infrastructure, automating pipelines, and building intelligen
 
 ---
 
+## 🧠 Software Engineering (Backend Focus)
+
+**Backend:**  
+Python • Django • Django REST Framework • Java  
+
+**Frontend:**  
+HTML • Next.js • Tailwind CSS • React  
+
+**Mobile:**  
+React Native • Expo • Expo Go  
+
+**Data & Async Systems:**  
+PostgreSQL • Redis • Celery  
+
+---
+
 ## 📊 GitHub Insights
 
 <p align="center">
@@ -40,14 +56,6 @@ Designing scalable infrastructure, automating pipelines, and building intelligen
 <p align="center">
   <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=fotsoeddy&theme=github-dark&hide_border=true" />
 </p>
-
----
-
-## 🧠 Engineering Background
-
-- Web: React, Vue.js  
-- Backend: Django, Node.js, Express  
-- API & system design  
 
 ---
 
