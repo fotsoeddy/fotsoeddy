@@ -1,38 +1,69 @@
-# Fotso Eddy Steve | DevOps & Software Engineer
+<h1 align="center">👋 Fotso Eddy Steve</h1>
 
-I am a dedicated DevOps and Software Engineer with extensive experience in building, deploying, and maintaining scalable and reliable software systems. My expertise spans the full software development lifecycle, from developing robust backend and frontend solutions to implementing efficient deployment pipelines and automating workflows.  
+<h3 align="center">
+⚙️ DevOps Engineer • ☁️ Cloud Infrastructure • 🤖 AI Automation
+</h3>
 
-Specializing in DevOps practices, I focus on continuous integration and continuous delivery (CI/CD), using tools such as Jenkins, GitHub Actions, Docker, Kubernetes, and cloud platforms like AWS, Render, and Railway to ensure software is delivered rapidly, securely, and reliably. I have hands-on experience in automating deployments, monitoring system performance, and optimizing application reliability and scalability.  
+<p align="center">
+Designing scalable infrastructure, automating pipelines, and building intelligent cloud systems.
+</p>
 
-In addition to DevOps, I have a strong background in full-stack and mobile application development, using technologies such as Python, Django, Django REST Framework, Node.js, Express.js, React, and Vue.js. I am passionate about bridging the gap between development and operations to create efficient, maintainable, and high-performing software solutions.  
+---
 
-I am committed to continuous learning, exploring new technologies, and applying best practices in DevOps and software engineering to deliver innovative solutions and enhance team productivity.  
+## 🚀 Core Focus
 
-## Technical Skills
+- CI/CD pipeline design & automation  
+- Cloud infrastructure (AWS, Render, Railway)  
+- Containerization with Docker & Kubernetes  
+- AI-powered automation workflows  
+- Infrastructure as Code & deployment systems  
+- Monitoring, logging, and reliability  
 
-| Category           | Technologies / Tools                                                            |
-| ------------------ | ------------------------------------------------------------------------------- |
-| **Frontend**       | HTML, CSS, SCSS, JavaScript, TypeScript, React, Vue.js                          |
-| **Backend**        | Python, Django, Django REST Framework, Node.js, Express.js                     |
-| **DevOps & Cloud** | Jenkins, GitHub Actions, Docker, Kubernetes, CI/CD Pipelines, AWS, Render, Railway, Firebase|
-| **Tools & Utilities** | Git, GitHub, Linux, Bash Scripting, Postman, Thunder Client, Vercel, Netlify, Hostinger|
+---
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fotsoeddy&show_icons=true&theme=radical)](https://github.com/fotsoeddy)
-[![GitHub Streak](https://streak-stats.demolab.com?user=fotsoeddy&theme=radical&hide_border=true)](https://github.com/fotsoeddy)
-[![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fotsoeddy&theme=radical)](https://github.com/fotsoeddy)
+## 🛠️ DevOps & Automation Stack
 
-## 📊 GitHub Overview
+**DevOps:** Docker • Kubernetes • Jenkins • GitHub Actions  
+**Cloud:** AWS • Render • Railway • Firebase  
+**AI Automation:** Python • APIs • Workflow automation  
+**Tools:** Linux • Bash • Git • Monitoring tools  
 
-These statistics offer a comprehensive view of my GitHub activity and contributions.
+---
 
-*   **GitHub Stats:** Provides an overview of my contributions, coding habits, and areas of expertise.
-*   **GitHub Streak:** Highlights my current and longest contribution streaks, demonstrating consistent engagement and dedication.
-*   **Contribution Activity:** Illustrates my recent contributions and overall involvement within the GitHub community.
+## 📊 GitHub Insights
 
-## 📬 Connect with Me
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=fotsoeddy&show_icons=true&theme=github_dark&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=fotsoeddy&theme=github-dark&hide_border=true" />
+</p>
 
-I am always eager to explore new opportunities and collaborations. Please feel free to connect with me through the following channels:
+<p align="center">
+  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=fotsoeddy&theme=github-dark&hide_border=true" />
+</p>
 
-*   **Email:** [fotsoeddysteve@gmail.com](mailto:fotsoeddysteve@gmail.com)
-*   **LinkedIn:** [linkedin.com/in/fotsoeddy](https://linkedin.com/in/fotsoeddy)
-*   **Twitter:** [twitter.com/fotsoeddy](https://twitter.com/fotsoeddy)
+---
+
+## 🧠 Engineering Background
+
+- Web: React, Vue.js  
+- Backend: Django, Node.js, Express  
+- API & system design  
+
+---
+
+## 🌱 Currently Working On
+
+- DevOps pipeline automation  
+- AI-driven infrastructure workflows  
+- Scalable cloud systems on AWS  
+- Intelligent deployment automation  
+
+---
+
+## 🤝 Connect
+
+<p align="center">
+  📧 <a href="mailto:fotsoeddysteve@gmail.com">fotsoeddysteve@gmail.com</a> • 
+  💼 <a href="https://linkedin.com/in/fotsoeddy">LinkedIn</a> • 
+  🐦 <a href="https://twitter.com/fotsoeddy">Twitter</a>
+</p>
